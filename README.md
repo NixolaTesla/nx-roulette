@@ -6,7 +6,7 @@ A text-based version of the classic game of russian roulette!
 
 # Requirements:
 
--must have **gcc** (or any other **compiler** to compile nxroulette.c into an executable, but you will end up having to that manually)
+Must have **gcc** (or any other **compiler** to compile nxroulette.c into an executable, but you will end up having to that manually)
 
 # Installation and Setup
 
